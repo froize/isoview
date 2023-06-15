@@ -1,5 +1,5 @@
 # isoview
- Application to view .iso files. Coded in C# with using MetroFramework UI and DiscUtils libraries.
+ Application to view .iso files. Written on C# with using MetroFramework UI and DiscUtils libraries.
  
  Приложение для просмотра файлов .iso. Написано на языке C# с использованием библиотек MetroFramework UI и DiscUtils.
  
